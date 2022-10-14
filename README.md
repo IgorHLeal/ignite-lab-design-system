@@ -50,13 +50,13 @@ Construção do protótipo no Figma:
 
 -----
 
-Componentização no Figma
+Componentização no Figma:
 
 ![components](public/images/components-figma.png)
 
 ---
 
-Construção dos tokens de cores no Figma
+Construção dos tokens de cores no Figma:
 
 ![tokens colors](public/images/tokens-colors.png)
 
