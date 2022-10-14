@@ -56,7 +56,7 @@ Componentização no Figma
 
 ---
 
-Construção dos tokens
+Construção dos tokens de cores no Figma
 
 ![tokens colors](public/images/tokens-colors.png)
 
